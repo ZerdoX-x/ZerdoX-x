@@ -6,7 +6,7 @@
  - [htmlacademy.ru](https://htmlacademy.ru/) mentor 👨‍🏫
  - [LPR](https://lp-russia.org/) supporter
 
-### Currently I am
+### Currently
  - Developing web interfaces with a11y and scalability in mind
  - Learning web Rust ecosystem 🦀. Building application with [Tauri](https://tauri.app/) and [Svelte](https://svelte.dev/)
  - Trying to get into compsci: [roadmap/computer-science](https://roadmap.sh/computer-science)
