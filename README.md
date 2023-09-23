@@ -1,3 +1,8 @@
+This account doesn't expose my personal email (`abc@users.noreply.github.com` is beind used)  
+**Reach out to me at [zerdox.dev/contact](https://zerdox.dev/en/contact)**
+
+---
+
 ### Me
  - 19 years old self-taught `<insert_value>` developer with 4 years experience
  - 0x396D2C5E84820BD6
@@ -13,5 +18,3 @@
  - Building [application](https://sr.ht/~zerdox/lithe/) with [Tauri](https://tauri.app/) and [Svelte](https://svelte.dev/). Learning web Rust ecosystem 🦀
  - Trying to get into compsci: [roadmap/computer-science](https://roadmap.sh/computer-science)
  - Living in ~~Russia~~ → ~~Armenia~~ → ~~Thailand~~ → Georgia. tz: UTC+4
-
-Reach me out at [zerdox.dev/contact](https://zerdox.dev/en/contact)
