@@ -18,3 +18,7 @@ This account doesn't expose my personal email (`abc@users.noreply.github.com` is
  - Building [application](https://sr.ht/~zerdox/lithe/) with [Tauri](https://tauri.app/) and [Svelte](https://svelte.dev/). Learning web Rust ecosystem 🦀
  - Trying to get into compsci: [roadmap/computer-science](https://roadmap.sh/computer-science)
  - Living in ~~Russia~~ → ~~Armenia~~ → ~~Thailand~~ → Georgia. tz: UTC+4
+
+---
+
+Contributions overview below shows only public activity and do not include private repos :)
