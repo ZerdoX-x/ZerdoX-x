@@ -1,4 +1,4 @@
-This account doesn't expose my personal email (`abc@users.noreply.github.com` is beind used)  
+This account doesn't expose my personal email (`abc@users.noreply.github.com` is being used)  
 **Reach out to me at [zerdox.dev/contact](https://zerdox.dev/en/contact)**
 
 ---
