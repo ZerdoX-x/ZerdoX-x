@@ -4,7 +4,7 @@ This account doesn't expose my personal email (`abc@users.noreply.github.com` is
 ---
 
 ### Me
- - 19 years old self-taught developer with 4 years experience
+ - 20 years old self-taught developer with 5 years experience
  - `0x396D2C5E84820BD6` [zerdox-x.gpg](https://github.com/zerdox-x.gpg)
  - In love with linux and FOSS 🐧
  - [htmlacademy.ru](https://htmlacademy.ru/) mentor 👨‍🏫
